@@ -1,1 +1,1 @@
-# train_from_scratch
+A collection of scripts to train models from scratch.
