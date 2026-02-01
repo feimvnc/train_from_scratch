@@ -1,0 +1,5 @@
+*.pt
+__pycache__/
+REFACTORING_SUMMARY.md
+local_dataset_own
+*.bak

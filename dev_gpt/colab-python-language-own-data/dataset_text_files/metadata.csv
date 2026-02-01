@@ -1,0 +1,12 @@
+index,repo_name,path,size,license,line_mean,line_max
+0,ahmedbodi/AutobahnPython,examples/asyncio/websocket/echo/client_coroutines.py,2044,apache-2.0,31.4444444444,79
+1,ifduyue/django,django/core/checks/registry.py,3108,bsd-3-clause,30.7142857143,91
+2,kmike/scikit-learn,sklearn/utils/__init__.py,10094,bsd-3-clause,26.8839779006,79
+3,houlixin/BBB-TISDK,linux-devkit/sysroots/i686-arago-linux/usr/lib/python2.7/encodings/cp1250.py,13942,gpl-2.0,44.4136807818,119
+4,dataxu/ansible,lib/ansible/modules/system/kernel_blacklist.py,4009,gpl-3.0,24.864516129,92
+5,163gal/Time-Line,libs_arm/wx/_controls.py,332374,gpl-3.0,41.4650568545,151
+6,blackbliss/callme,flask/lib/python2.7/site-packages/werkzeug/contrib/cache.py,23519,mit,33.6377025037,86
+7,pipet/pipet,pipet/sources/zendesk/tasks.py,1544,apache-2.0,28.6923076923,96
+8,tomchristie/django,django/apps/config.py,8047,bsd-3-clause,38.6403940887,81
+9,prutseltje/ansible,test/units/modules/network/f5/test_bigip_gtm_datacenter.py,6819,gpl-3.0,30.7162790698,91
+10,antb/TPT----My-old-mod,src/python/stdlib/ctypes/test/test_errno.py,2330,gpl-2.0,28.125,69
